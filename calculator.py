@@ -1,5 +1,5 @@
 
-
+# 함수 설정하기
 def plus(a, b):
     return a + b
 
